@@ -1,6 +1,6 @@
 - 👋🏽 Hi, I’m Kameel
 - 👩🏽‍💻 I’m a software engineer
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning React
 - 💌 You can reach me at: kmlwhy@gmail.com 
 
 <!---
